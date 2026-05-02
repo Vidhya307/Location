@@ -12,3 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+rootProject.name = "LocationApp"
+include(":app")
+
